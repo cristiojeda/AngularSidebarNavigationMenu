@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Para Ejecutar el proyecto utilizando Angular  `ng serve`
+## Para instalar las dependencias necesarias antes de ejecutar el proyecto  `npm i `
+![image](https://user-images.githubusercontent.com/39716800/122846176-4acfd900-d2d3-11eb-80aa-c19930e4b78c.png)
+![image](https://user-images.githubusercontent.com/39716800/122846600-33452000-d2d4-11eb-9b0a-5e4aeebf0643.png)
